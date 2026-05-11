@@ -16,7 +16,27 @@ gouvernance et la structuration juridique de la structure.
 
 ## Gouvernance partagée, une évidence pour nous
 
-[Description des principes de gouvernance partagée mis en oeuvre par le groupe]
+Nous avons choisi la gouvernance partagée comme solution d'organisation pour le
+fonctionnement du groupe. Alors que certains groupes travaillent avec des
+leaders (élus ou non), des assemblées qui réfléchissent et décident, la
+gouvernance partagée est basée sur le principe que chaque membre est souverain,
+le pouvoir étant réparti équitablement entre tous.
+
+Hagrou a fait le choix de la gouvernance partagée pour s'assurer que le pouvoir
+reste réparti de façon équitable et qu'aucune personnalité ou sous groupe ait
+plus d'influence que d'autres. Cela nous semble aujourd'hui le fonctionnement
+le plus adapté à nos valeurs. Cela est fortement lié à la notion de robustesse,
+très importante à nos yeux : les dynamiques de pouvoirs malsaines sont
+naturelles entre les humains, et nous voulions les prévenir le plus possible.
+La gouvernance partagée offrant beaucoup d'outils qui nous correspondent, il a
+été naturel de s'orienter vers ce mode de fonctionnement.
+
+Nous utilisons des méthodologie de gouvernance partagée à plusieurs niveaux :
+ - Prises de décisions (consentement et consensus)
+ - Animation des réunions (élection sans candidats des facilitateurices et secrétaires)
+ - Répartition des tâches (fonctionnement par groupe de travail)
+ - Transparence des travaux de toustes (cannaux de travaux ouverts à toustes)
+ - etc.
 
 ---
 

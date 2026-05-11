@@ -9,7 +9,7 @@ colorScheme = "cherry"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
-defaultThemeColor = "#FFFFFF"
+defaultThemeColor = "#FFFAFF"
 
 enableSearch = false
 enableCodeCopy = false

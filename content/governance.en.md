@@ -16,7 +16,25 @@ governance and legal structure of the organization.
 
 ## Our governance? Shared, obviously
 
-[Description of the shared governance principles implemented by the group]
+We have chosen shared governance as the organizational model for how the group
+operates. While some groups work with leaders (elected or not) and assemblies
+that deliberate and make decisions, shared governance is based on the principle
+that every member is sovereign, with power distributed equally among all.
+
+Hagrou chose shared governance to ensure that power remains distributed
+equitably and that no individual or subgroup has more influence than another.
+This seems to us today to be the structure best suited to our values. This is
+closely linked to the concept of resilience, which is very important to us:
+unhealthy power dynamics are natural among humans, and we wanted to prevent
+them as much as possible. Since shared governance offers many tools that suit
+us, it was natural to move toward this mode of operation.
+
+We use shared governance methodologies at several levels:
+ - Decision-making (consent and consensus)
+ - Meeting facilitation (election of facilitators and secretaries without candidates)
+ - Task distribution (operating through working groups)
+ - Transparency of everyone’s work (work channels open to everyone)
+ - etc.
 
 ---
 

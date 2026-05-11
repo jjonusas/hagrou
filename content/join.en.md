@@ -2,9 +2,11 @@
 title: "Join us"
 ---
 
-## You want to join the Hagrou adventure?
+{{< lead >}} You want to join the Hagrou adventure? {{< /lead >}}
 
-[EN missing text]
+We are always looking for new members to help build the project and live at the
+chosen location, hopefully from early 2028 onwards (for more information about
+the location, visit [this page](location)).
 
 What is the process for joining Hagrou?
 

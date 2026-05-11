@@ -2,7 +2,7 @@
 title: "Nous rejoindre"
 ---
 
-## Tu veux rejoindre l’aventure Hagrou?
+{{< lead >}} Tu veux rejoindre l’aventure Hagrou? {{< /lead >}}
 
 Nous sommes toujours à la recherche de nouveaux membres pour participer à la
 construction du projet et habiter dans le lieu identifié à compter, si tout va
