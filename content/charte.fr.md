@@ -16,4 +16,4 @@ Ces trois axes se veulent étroitement imbriqués et se répondent entre eux.
 
 ---
 
-[Lire la charte d'Hagrou]()
+[Lire la charte d'Hagrou](under_construction)

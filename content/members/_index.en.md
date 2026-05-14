@@ -4,7 +4,7 @@ title: "Members"
 
 ## A collective
 
-At DATE, Hagrou comprises XX adults and XX children. The group, initially made
+As of May 2026, Hagrou comprises 13 adults and 8 children. The group, initially made
 up of friends of friends, has gradually evolved through departures and
 expansions via various “recruitment” phases.
 

@@ -16,4 +16,4 @@ These three pillars are closely intertwined and respond to each other.
 
 ---
 
-[Read the charter of Hagro]()
+[Read the charter of Hagro](under_construction)

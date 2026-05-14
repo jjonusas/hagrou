@@ -40,4 +40,5 @@ We use shared governance methodologies at several levels:
 
 ## Hagrou’s legal structure
 
-[Description of the legal structure]
+We are currently working on defining the legal structure. This page will be
+updated later.

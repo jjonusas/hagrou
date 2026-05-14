@@ -42,4 +42,7 @@ Nous utilisons des méthodologie de gouvernance partagée à plusieurs niveaux :
 
 ## La structure juridique d’Hagrou
 
+La définition de la structure juridique est en cours. Cette page sera
+actualisée ultérieurement.
+
 [Description de la structure juridique]
