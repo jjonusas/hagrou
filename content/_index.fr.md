@@ -1,7 +1,6 @@
 ---
 title: Un projet d’habitat groupé à Bruxelles
 feature: front.png
-
 ---
 
 {{< lead >}}

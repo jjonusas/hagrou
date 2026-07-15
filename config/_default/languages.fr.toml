@@ -1,8 +1,7 @@
-languageCode = "fr"
-languageName = "Français"
-languageDirection = "ltr"
+direction = "ltr"
+label = "Français"
+locale = 'fr-BE'
 weight = 10
-
 title = "Hagrou"
 # copyright = "Copy, _right?_ :thinking_face:"
 

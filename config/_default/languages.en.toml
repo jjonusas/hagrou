@@ -1,7 +1,7 @@
-languageCode = "en"
-languageName = "English"
-languageDirection = "ltr"
-weight = 1
+locale = "en-GB"
+label = "English"
+direction = "ltr"
+weight = 20
 
 title = "Hagrou"
 # copyright = "Copy, _right?_ :thinking_face:"
