@@ -3,10 +3,14 @@ title: "Alice"
 summary: "Introvertie qui aime les mots qui réfléchissent le monde, je les écoute et les joute avec passion... pour ensuite me ressourcer en lisant dans le jardin en jupe à sequins roses, (mal) cachée sous de grandes lunettes de soleil"
 ---
 
+### Que devrait savoir de toi un·e candidat·e à l'aventure Hagrou?
+
 Introvertie qui aime les mots qui réfléchissent le monde, je les
 écoute et les joute avec passion... pour ensuite me ressourcer en
 lisant dans le jardin en jupe à sequins roses, (mal) cachée sous de
 grandes lunettes de soleil.
+
+### Pourquoi as-tu fait le choix de l'habitat groupé (avec Hagrou)?
 
 J'aurais bien tendance à partir me cacher dans la forêt, à proximité
 d'une rivière où me baigner et de cailloux sur lesquels prendre un
