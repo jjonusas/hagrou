@@ -1,0 +1,40 @@
+/* Hagrou scheme */
+:root {
+  --color-neutral: 196, 231, 229;
+
+  --color-neutral-50:  0, 0, 0;
+  --color-neutral-100: 0, 0, 0;
+  --color-neutral-200: 0, 0, 0;
+  --color-neutral-300: 0, 0, 0;
+  --color-neutral-400: 0, 0, 0;
+  --color-neutral-500: 25, 60, 78; /* Oiler Navy */
+  --color-neutral-600: 0, 0, 0;
+  --color-neutral-700: 25, 60, 78; /* Oiler Navy */
+  --color-neutral-800: 25, 60, 78; /* Oiler Navy */
+  --color-neutral-900: 25, 60, 78; /* Oiler Navy */
+  --color-neutral-950: 0, 0, 0;
+
+  --color-primary-50: 0, 0, 0;
+  --color-primary-100: 243, 107, 46; /* Sunset Orange */
+  --color-primary-200: 243, 107, 46; /* Sunset Orange */
+  --color-primary-300: 243, 107, 46; /* Sunset Orange */
+  --color-primary-400: 245, 154, 30; /* Mango */
+  --color-primary-500: 243, 107, 46; /* Sunset Orange */
+  --color-primary-600: 25, 60, 78; /* Oiler Navy */
+  --color-primary-700: 25, 60, 78; /* Oiler Navy */
+  --color-primary-800: 0, 0, 0;
+  --color-primary-900: 0, 0, 0;
+  --color-primary-950: 0, 0, 0;
+
+  --color-secondary-50: 0, 0, 0;
+  --color-secondary-100: 0, 0, 0;
+  --color-secondary-200: 245, 154, 30; /* Mango */
+  --color-secondary-300: 0, 0, 0;
+  --color-secondary-400: 0, 0, 0;
+  --color-secondary-500: 0, 0, 0;
+  --color-secondary-600: 0, 0, 0;
+  --color-secondary-700: 0, 0, 0;
+  --color-secondary-800: 0, 0, 0;
+  --color-secondary-900: 0, 0, 0;
+  --color-secondary-950: 0, 0, 0;
+}
