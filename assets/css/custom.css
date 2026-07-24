@@ -1,0 +1,115 @@
+/* The actual timeline (the vertical ruler) */
+.timeline {
+  position: relative;
+  margin: 0 auto;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline::after {
+  content: "";
+  position: absolute;
+  width: 3px;
+  background-color: rgba(var(--color-primary-600), 1);
+  top: 0;
+  bottom: 0;
+  left: 25%;
+  margin-left: -3px;
+}
+
+/* Container around content */
+.timeline .event-container {
+  padding: 10px 10px 10px 10px;
+  margin-top: 0px;
+  position: relative;
+  width: 75%;
+  left: 25%;
+}
+
+.timeline .year-container {
+  padding: 0px 10px 0px 10px;
+  position: relative;
+  width: 25%;
+  left: 0%;
+}
+
+/* Add arrows to the right event-container (pointing left) */
+.timeline .event-container::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 15px;
+  width: 0;
+  z-index: 1;
+  left: -11px;
+  border: medium solid rgba(var(--color-primary-600), 1);
+  border-width: 12px;
+  border-color: transparent rgba(var(--color-primary-600), 1) transparent transparent ;
+}
+
+/* The circles on the timeline */
+.timeline .year-container::after {
+  content: "";
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  right: -5px;
+  background-color: rgba(var(--color-primary-600), 1);
+  top: 10px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+/* The actual content */
+.timeline .event-content {
+  color: rgba(var(--color-neutral), 1);
+  background-color: rgba(var(--color-primary-600), 1);
+  position: relative;
+  border-radius: 0px;
+  overflow: auto;
+  padding: 10px 15px;
+}
+
+/* card title format */
+.timeline .event-content .event-header {
+  background-color: rgba(var(--color-primary-600), 1);
+  font-weight: bold;
+}
+
+/* body size */
+.timeline .event-content .card-body {
+  padding: 5px 0px 0px 0px;
+  background-color: rgba(var(--color-neutral-500), 1);
+  color: rgba(var(--color-neutral), 1);
+  line-height: 1;
+}
+
+.timeline .year-content .year-body {
+  font-weight: 700;
+  font-size: 1.5em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  line-height: 1.3333333;
+  text-align: right;
+  padding: 0px 15px 0px 0px;
+}
+
+/* responsive for small devices*/
+@media screen and (max-width: 600px) {
+  .timeline .event-container {
+    padding: 10px 10px 0px 10px;
+  }
+
+  .timeline .event-content {
+    padding: 5px 10px 10px 10px;
+  }
+
+  .timeline .year-container::after {
+    top: 10px;
+  }
+
+  .timeline .year-content .year-body {
+    padding: 0px 10px 0px 0px;
+    margin-top: 0em;
+    margin-bottom: 0em;
+  }
+}

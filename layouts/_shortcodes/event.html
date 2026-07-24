@@ -1,0 +1,25 @@
+{{ $from := time.AsTime (.Get "from") }}
+{{ $to := time.Now }}
+{{ $ongoing := eq (.Get "to") "" }}
+{{ if ne (.Get "to") "" }}
+  {{ $to =  time.AsTime (.Get "to") }}
+{{ end }}
+
+<div class="event-container">
+  <div class="event-content">
+    <div class="event-header">
+      {{ if $ongoing }}
+        {{time.Format "January 2006" $from}}–{{ .Page.Params.ongoingStr }}
+      {{ else if eq $from.Year $to.Year }}
+        {{ if eq $from.Month $to.Month }}
+          {{time.Format "January 2006" $from}}
+        {{ else }}
+          {{time.Format "January" $from}}–{{time.Format "January" $to}} {{time.Format "2006" $from}}
+        {{ end }}
+      {{ else }}
+              {{time.Format "January 2006" $from}}-{{time.Format "January 2006" $to}}
+      {{ end }}
+    </div>
+    <div class="card-body"> {{.Inner}} </div>
+  </div>
+</div>
