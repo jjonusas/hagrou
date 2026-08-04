@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <article class="prose max-w-full dark:prose-invert">
+    <section style="display: flex;">
+      <div class="text-container">
+        {{ with .Title }}
+          <header>
+            <h1>{{ . | emojify }}</h1>
+          </header>
+        {{ end }}
+        {{ .Content }}
+      </div>
+      <div class="img-container"> <img src="tower.png"/> </div>
+    </section>
+  </article>
+{{ end }}
