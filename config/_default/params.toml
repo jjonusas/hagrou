@@ -22,12 +22,11 @@ fingerprintAlgorithm = "sha256"
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
   logo = "logo.png"
-  # logoDark = "img/dark-logo.jpg"
   showTitle = false
 
 [footer]
   showCopyright = false
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = false
   showScrollToTop = true
 
@@ -52,7 +51,6 @@ fingerprintAlgorithm = "sha256"
   showTaxonomies = false
   showWordCount = false
   showComments = false
-  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo", "xing", "bluesky"]
 
 [list]
   showBreadcrumbs = false
