@@ -1,5 +1,6 @@
 ---
 title: Un projet d’habitat groupé à Bruxelles
+Tower: tower.png
 ---
 
 {{< lead >}} Chambardons notre façon d’habiter ! Une aventure créatrice, où rayonnent adelphité, poésie et robustesse. {{< /lead >}}
