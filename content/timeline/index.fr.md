@@ -5,6 +5,8 @@ ongoingStr: "en cours"
 
 {{< timeline >}}
 
+  {{% event from="2026-09-01" to="2026-09-01"%}} Deuxième week-end Hagrou {{% /event %}}
+
   {{% event from="2026-07-01"%}} Troisième phase de recrutement {{% /event %}}
 
   {{% event from="2026-01-01"%}} Troisième exploration de lieu {{% /event %}}

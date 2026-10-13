@@ -19,4 +19,6 @@ dans Bruxelles, découvrir une nouvelle bière ou un nouveau parc
 
 ### Pourquoi as-tu fait le choix de l'habitat groupé (avec Hagrou)?
 
-L'habitat groupé pour repenser notre manière de vivre (dans notre logement et au sens large) et pour réfléchir à d'autres voies possibles que celles imposées par le capitalisme: le partage, la solidarité, l'inclusivité, l'ouverture.
+L'habitat groupé pour repenser notre manière de vivre (dans notre logement et
+au sens large) et pour réfléchir à d'autres voies possibles que celles imposées
+par le capitalisme: le partage, la solidarité, l'inclusivité, l'ouverture.

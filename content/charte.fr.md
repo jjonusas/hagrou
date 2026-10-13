@@ -17,11 +17,11 @@ Cette charte exprime la vision qui guide notre projet d'habitat groupé. Elle ne
 constitue pas un règlement détaillé, mais un cadre commun qui oriente nos choix
 et notre manière d'habiter ensemble.
 
-Notre projet repose sur trois piliers complémentaires :
+Notre projet repose sur trois piliers complémentaires&nbsp;:
   - l'adelphité, qui place la solidarité, l'inclusivité et le soin des
-    relations au cœur de la vie collective ;
+    relations au cœur de la vie collective&nbsp;;
   - la poésie, entendue comme une manière créative et joyeuse d'habiter le
-    monde ;
+    monde&nbsp;;
   - la robustesse, qui vise à construire un collectif capable de durer, de
     s'adapter et de prendre soin de son environnement.
 
@@ -51,18 +51,19 @@ groupe et sa capacité à évoluer.
 
 ### En pratique
 
-Notre collectif cherche à :
-  - fonctionner de manière horizontale et participative;
-  - prendre les décisions par le dialogue, le consentement et la recherche du consensus;
-  - favoriser une communication transparente et bienveillante;
-  - considérer les désaccords comme des occasions d'apprendre plutôt que comme des échecs;
-  - préserver un équilibre entre autonomie individuelle et vie collective;
-  - mutualiser les savoirs, les compétences et certains biens matériels;
-  - rechercher l'équité plutôt qu'une stricte égalité, en tenant compte des réalités et des besoins de chacun;
-  - favoriser l'inclusion, l'accessibilité et la diversité du groupe;
+Notre collectif cherche à&nbsp:
+  - fonctionner de manière horizontale et participative&nbsp;;
+  - prendre les décisions par le dialogue, le consentement et la recherche du consensus&nbsp;;
+  - favoriser une communication transparente et bienveillante&nbsp;;
+  - considérer les désaccords comme des occasions d'apprendre plutôt que comme des échecs&nbsp;;
+  - préserver un équilibre entre autonomie individuelle et vie collective&nbsp;;
+  - mutualiser les savoirs, les compétences et certains biens matériels&nbsp;;
+  - rechercher l'équité plutôt qu'une stricte égalité, en tenant compte des
+    réalités et des besoins de chacun·e&nbsp;;
+  - favoriser l'inclusion, l'accessibilité et la diversité du groupe&nbsp;;
   - inscrire le projet dans son quartier et développer des liens avec son environnement social.
 
-Nous considérons que chacun est responsable, selon ses possibilités, de prendre
+Nous considérons que chacun·e est responsable, selon ses possibilités, de prendre
 soin de lui/elle-même, d’exprimer ses besoins, d'entretenir des relations
 bienveillantes avec les autres, et de contribuer à la vie du collectif.
 
@@ -91,12 +92,12 @@ de vivre.
 
 ### En pratique
 
-Nous souhaitons :
-  - encourager une communication ludique, créative et curieuse;
-  - accueillir les idées inédites avec bienveillance;
-  - reconnaître la valeur du tâtonnement, de l'expérimentation et de l'apprentissage collectif;
-  - accorder une attention particulière à la qualité esthétique des lieux de vie;
-  - concevoir des espaces communs favorisant la rencontre, la création, la transmission et l'entraide;
+Nous souhaitons&nbsp;:
+  - encourager une communication ludique, créative et curieuse&nbsp;;
+  - accueillir les idées inédites avec bienveillance&nbsp;;
+  - reconnaître la valeur du tâtonnement, de l'expérimentation et de l'apprentissage collectif&nbsp;;
+  - accorder une attention particulière à la qualité esthétique des lieux de vie&nbsp;;
+  - concevoir des espaces communs favorisant la rencontre, la création, la transmission et l'entraide&nbsp;;
   - permettre que ces espaces accueillent, lorsque cela est pertinent, des activités ouvertes vers l'extérieur.
 
 Nous souhaitons que notre habitat reste un lieu vivant, capable d'évoluer avec les personnes qui l'habitent.
@@ -126,16 +127,16 @@ une utilisation responsable des ressources.
 
 ### En pratique
 
-Nous voulons :
-  - cultiver des moments informels de convivialité et de fête;
-  - accueillir les nouveaux membres de manière attentive et intentionnelle;
-  - développer des partenariats avec le quartier, les associations et d'autres collectifs;
-  - partager les responsabilités afin que le fonctionnement du projet ne dépende jamais d'une seule personne;
-  - privilégier des choix architecturaux durables, évolutifs et respectueux de l'environnement;
-  - favoriser les espaces mutualisés et une économie de l'usage plutôt que de la propriété individuelle;
-  - encourager la réparation, le réemploi, les approches low-tech et la circularité des ressources;
+Nous voulons&nbsp;:
+  - cultiver des moments informels de convivialité et de fête&nbsp;;
+  - accueillir les nouveaux membres de manière attentive et intentionnelle&nbsp;;
+  - développer des partenariats avec le quartier, les associations et d'autres collectifs&nbsp;;
+  - partager les responsabilités afin que le fonctionnement du projet ne dépende jamais d'une seule personne&nbsp;;
+  - privilégier des choix architecturaux durables, évolutifs et respectueux de l'environnement&nbsp;;
+  - favoriser les espaces mutualisés et une économie de l'usage plutôt que de la propriété individuelle&nbsp;;
+  - encourager la réparation, le réemploi, les approches low-tech et la circularité des ressources&nbsp;;
   - développer des espaces favorisant les mobilités douces, le bricolage, la
-    culture, les jeux, les jardins et les projets collectifs;
+    culture, les jeux, les jardins et les projets collectifs&nbsp;;
   - documenter l'histoire du projet afin de transmettre son expérience, ses
     apprentissages et les récits qui naîtront de cette aventure commune.
 

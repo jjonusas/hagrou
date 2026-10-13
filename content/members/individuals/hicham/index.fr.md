@@ -17,4 +17,8 @@ encore mentionné...
 
 ### Pourquoi as-tu fait le choix de l'habitat groupé (avec Hagrou)?
 
-Vivre aux alentours de mes proches et hors des schémas prescrits et isolants de la société sont des envies qui m'animaient depuis longtemps. L'opportunité de rejoindre un communauté créative et de gens choupi est venue, et je l'ai saisie ! Si je vis avec mes ami.e.s, plus besoin de faire de trajets pour aller les voir hehe.
+Vivre aux alentours de mes proches et hors des schémas prescrits et isolants de
+la société sont des envies qui m'animaient depuis longtemps. L'opportunité de
+rejoindre un communauté créative et de gens choupi est venue, et je l'ai saisie
+! Si je vis avec mes ami.e.s, plus besoin de faire de trajets pour aller les
+voir hehe.

@@ -31,11 +31,11 @@ naturelles entre les humains, et nous voulions les prévenir le plus possible.
 La gouvernance partagée offrant beaucoup d'outils qui nous correspondent, il a
 été naturel de s'orienter vers ce mode de fonctionnement.
 
-Nous utilisons des méthodologie de gouvernance partagée à plusieurs niveaux :
- - Prises de décisions (consentement et consensus)
- - Animation des réunions (élection sans candidats des facilitateurices et secrétaires)
- - Répartition des tâches (fonctionnement par groupe de travail)
- - Transparence des travaux de toustes (cannaux de travaux ouverts à toustes)
+Nous utilisons des méthodologies de gouvernance partagée à plusieurs niveaux&nbsp;:
+ - Prises de décisions (consentement et consensus)&nbsp;;
+ - Animation des réunions (élection sans candidats des facilitateurices et secrétaires)&nbsp;;
+ - Répartition des tâches (fonctionnement par groupe de travail)&nbsp;;
+ - Transparence des travaux de tous·tes (cannaux de travaux ouverts à tous·tes)&nbsp;;
  - etc.
 
 ---

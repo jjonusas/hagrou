@@ -2,7 +2,7 @@
 title: Un projet d’habitat groupé à Bruxelles
 ---
 
-{{< lead >}} Chambardons notre façon d’habiter! Une aventure créatrice, où rayonnent adelphité, poésie et robustesse. {{< /lead >}}
+{{< lead >}} Chambardons notre façon d’habiter ! Une aventure créatrice, où rayonnent adelphité, poésie et robustesse. {{< /lead >}}
 
 ![This is us](front.png)
 

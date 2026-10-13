@@ -1,33 +1,33 @@
 ---
 title: "Geoffrey"
-summary: "Trentenaire jovial, j'aime faire rire mes proches
+summary: "Trentenaire jovial, j'aime faire rire mes proches.
 
 Sportif du dimanche, amateur tant d'évasions que de recherches
-littéraires, J'adore les moments conviviaux avec les gens autour
-d'une bière dans un bar .
+littéraires, j'adore les moments conviviaux avec les gens autour
+d'une bière dans un bar.
 
-Monteur vidéo de profession, jouer aux jeux vidéos , de rôle  ou
-regarder des films  font partie de mes petits plaisirs Grand
+Monteur vidéo de profession, jouer aux jeux vidéos, de rôle  ou
+regarder des films  font partie de mes petits plaisirs. Grand
 curieux, j'aime organiser et participer à plein d'activités.
 
-Extraverti à tendance timorée, Team ENM, féminisme, allié et
+Extraverti à tendance timorée, team ENM, féminisme, allié et
 LGBTQIA+ friendly, ️je suis aussi en coloc avec mon chat
 Mike."
 ---
 
 ### Que devrait savoir de toi un·e candidat·e à l'aventure Hagrou?
 
-Trentenaire jovial, j'aime faire rire mes proches
+Trentenaire jovial, j'aime faire rire mes proches.
 
 Sportif du dimanche, amateur tant d'évasions que de recherches
-littéraires, J'adore les moments conviviaux avec les gens autour
-d'une bière dans un bar .
+littéraires, j'adore les moments conviviaux avec les gens autour
+d'une bière dans un bar.
 
-Monteur vidéo de profession, jouer aux jeux vidéos , de rôle  ou
-regarder des films  font partie de mes petits plaisirs Grand
-curieux, j'aime organiser et participer à plein d'activités :
+Monteur vidéo de profession, jouer aux jeux vidéos, de rôle  ou
+regarder des films  font partie de mes petits plaisirs. Grand
+curieux, j'aime organiser et participer à plein d'activités.
 
-Extraverti à tendance timorée, Team ENM, féminisme, allié et
+Extraverti à tendance timorée, team ENM, féminisme, allié et
 LGBTQIA+ friendly, ️je suis aussi en coloc avec mon chat
 Mike.
 

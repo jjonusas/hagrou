@@ -4,7 +4,7 @@ title: "Membres"
 
 ## Un collectif
 
-En mai 2026, Hagrou est composé de 13 adultes et 8 enfants. Le groupe,
+En octobre 2026, Hagrou est composé de 11 adultes et 6 enfants. Le groupe,
 initialement constitué d’amis d’amis, a progressivement évolué entre départs et
 élargissements via différentes phases de “recrutement”.
 

@@ -5,6 +5,8 @@ ongoingStr: "ongoing"
 
 {{< timeline >}}
 
+  {{% event from="2026-09-01" to="2026-09-01"%}} Second Hagrou weekend {{% /event %}}
+
   {{% event from="2026-07-01"%}} Third wave of recruitment {{% /event %}}
 
   {{% event from="2026-01-01"%}} Exploring the third location {{% /event %}}

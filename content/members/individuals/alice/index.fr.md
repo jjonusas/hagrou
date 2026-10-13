@@ -1,6 +1,6 @@
 ---
 title: "Alice"
-summary: "Introvertie qui aime les mots qui réfléchissent le monde, je les écoute et les joute avec passion... pour ensuite me ressourcer en lisant dans le jardin en jupe à sequins roses, (mal) cachée sous de grandes lunettes de soleil"
+summary: "Introvertie qui aime les mots qui réfléchissent le monde, je les écoute et les joute avec passion... pour ensuite me ressourcer en lisant dans le jardin en jupe à sequins roses, (mal) cachée sous de grandes lunettes de soleil."
 ---
 
 ### Que devrait savoir de toi un·e candidat·e à l'aventure Hagrou?

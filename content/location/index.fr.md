@@ -6,7 +6,7 @@ feature: "site.png"
 L’aventure Hagrou est actuellement au stade de projet : nous sommes un
 collectif qui prépare la structuration d’un futur lieu d’habitation.
 
-Nous avons identifié un site à Schaerbeek nous devons à présent mener les
+Nous avons identifié un site à Schaerbeek et nous devons à présent mener les
 étapes suivantes : études, obtention du permis d’urbanisme, sécurisation de la
 vente et enfin rénovation ! Si le projet se concrétise, nous espérons pouvoir
 emménager début 2028.

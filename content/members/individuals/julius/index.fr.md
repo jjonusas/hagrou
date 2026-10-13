@@ -9,4 +9,4 @@ I grow mold!
 
 ### Pourquoi as-tu fait le choix de l'habitat groupé (avec Hagrou)?
 
-Renforcement des communautés
+Renforcement des communautés.
