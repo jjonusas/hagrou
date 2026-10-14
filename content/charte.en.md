@@ -18,14 +18,14 @@ a detailed set of rules, but a shared framework that guides our choices
 and the way we live together.
 
 Our project is based on three complementary pillars:
-  - adelphité, which places solidarity, inclusivity and care for
+  - siblingness, which places solidarity, inclusivity and care for
     relationships at the heart of community lif;
   - poetry, understood as a creative and joyful way of inhabiting the
     world;
   - robustness, which aims to build a community capable of enduring,
     adapting and caring for its environment.
 
-1. Adelphité
+1. Siblingness
 
 {{< lead >}} Making solidarity the foundation of living together {{</ lead >}}
 
@@ -40,7 +40,7 @@ the recognition of differences.
 
 ### Our aspiration
 
-Adelphity refers to a form of solidarity that encompasses both fraternity and
+Siblingness refers to a form of solidarity that encompasses both fraternity and
 sorority, whilst transcending gender identities.
 
 We want to build a welcoming community where everyone can be fully themselves
