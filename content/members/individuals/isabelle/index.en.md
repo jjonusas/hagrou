@@ -1,5 +1,7 @@
 ---
 title: "Isabelle"
+thumbnailAlt: "Photo of Isabelle"
+featureAlt: "Photo of Isabelle"
 summary: |
   Sunday 26 April 2026, 2.03 pm: In 27 minutes, I have to set off for the Hagrou meeting. Settled comfortably on my yellow sofa, I’m waiting for a fascinating fun fact about myself to surface in my mind. A gentle breeze caresses my cheek.  My eyelids feel heavy and the soft purr of engines below lulls me. My eyes are closing… Come on, just a few minutes…
 ---

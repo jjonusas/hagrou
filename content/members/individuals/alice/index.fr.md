@@ -1,5 +1,7 @@
 ---
 title: "Alice"
+thumbnailAlt: "Photo d'Alice"
+featureAlt: "Photo d'Alice"
 summary: |
   Introvertie qui aime les mots qui réfléchissent le monde, je les écoute et les joute avec passion... pour ensuite me ressourcer en lisant dans le jardin en jupe à sequins roses, (mal) cachée sous de grandes lunettes de soleil.
 ---

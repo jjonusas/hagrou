@@ -1,5 +1,7 @@
 ---
 title: "Geoffrey"
+thumbnailAlt: "Photo of Geoffrey"
+featureAlt: "Photo of Geoffrey"
 summary: |
   A cheerful thirty-something, I love making my friends and family laugh.
 

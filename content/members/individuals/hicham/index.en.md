@@ -1,5 +1,7 @@
 ---
 title: "Hicham"
+thumbnailAlt: "Photo of Hicham"
+featureAlt: "Photo of Hicham"
 summary: |
   My three key traits: enthusiasm, nuance and jokes. And board games. And cycling. And loads of other stuff, actually. Oops… Can I still add more things?  There’s no character limit, right?  Because I’ve just thought of something I hadn’t mentioned yet…"
 ---

@@ -1,5 +1,7 @@
 ---
 title: "Julius"
+thumbnailAlt: "Photo of Julius"
+featureAlt: "Photo of Julius"
 summary: |
   I grow mold.
 ---

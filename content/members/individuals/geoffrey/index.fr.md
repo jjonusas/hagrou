@@ -1,5 +1,7 @@
 ---
 title: "Geoffrey"
+thumbnailAlt: "Photo de Geoffrey"
+featureAlt: "Photo de Geoffrey"
 summary: |
   Trentenaire jovial, j'aime faire rire mes proches.
 

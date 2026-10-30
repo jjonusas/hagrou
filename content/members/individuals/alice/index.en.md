@@ -1,5 +1,7 @@
 ---
 title: "Alice"
+thumbnailAlt: "Photo of Alice"
+featureAlt: "Photo of Alice"
 summary: |
   An introvert who loves words that reflect the world; I listen to them and play with them passionately… before recharging my batteries by reading in the garden in a pink sequinned skirt, (poorly) hidden behind large sunglasses.
 ---

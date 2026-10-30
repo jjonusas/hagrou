@@ -1,5 +1,7 @@
 ---
 title: "Florent"
+thumbnailAlt: "Photo de Florent"
+featureAlt: "Photo de Florent"
 summary: |
   J'aime particulièrement ma famille, mes copains, les bières et le dessin...
   Dans cet ordre.

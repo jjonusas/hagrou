@@ -1,5 +1,7 @@
 ---
 title: "Florent"
+thumbnailAlt: "Photo of Florent"
+featureAlt: "Photo of Florent"
 summary: |
   I particularly love my family, my friends, beer and drawing… In that order.
 ---

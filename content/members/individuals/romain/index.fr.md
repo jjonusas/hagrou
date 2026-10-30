@@ -1,5 +1,7 @@
 ---
 title: "Romain"
+thumbnailAlt: "Photo de Romain"
+featureAlt: "Photo de Romain"
 summary: |
   C’est une somme de hasards heureux qui m’a mené en Belgique puis dans ce groupe et c’est avec joie que je construis ces relations avec mes futurs voisins. Je suis fasciné par tout ce qui touche aux jeux et aux dynamiques de groupe. Mène et perd des combats pas très importants mais avec conviction sur les dénominations des groupes de travail dans Hagrou.
 ---

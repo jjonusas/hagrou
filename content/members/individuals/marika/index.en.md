@@ -1,5 +1,7 @@
 ---
 title: "Marika"
+thumbnailAlt: "Photo of Marika"
+featureAlt: "Photo of Marika"
 summary: |
   After two years in Brussels, where I joined Hagrou, I’ve been in Montpellier since mid-2026, where I continue to be part of the adventure remotely. I enjoy cultural outings, board games, travelling by train to visit my friends, I do dance classes and my goal this year is to keep my plants alive!
 ---
