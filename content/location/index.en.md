@@ -17,5 +17,5 @@ include a large multipurpose room open to the public on an occasional basis,
 social and craft rooms, guest rooms, bicycle storage, a laundry room for shared
 washing machines, etc.
 
-The project aims to create 16 housing units, and we are not yet full! If you
+The project aims to create 17 housing units, and we are not yet full! If you
 would like to join the adventure, click [here](join) :)

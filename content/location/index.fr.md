@@ -18,5 +18,5 @@ salle polyvalente ouverte ponctuellement au public, de salles de convivialité
 ou de travaux manuels, de chambres d’amis, de locaux pour les vélos, d’une
 buanderie pour les machines à laver communes, etc.
 
-Le projet vise 16 unités d’habitations et nous ne sommes pas encore au complet
+Le projet vise 17 unités d’habitations et nous ne sommes pas encore au complet
 ! Si vous souhaitez rejoindre l’aventure, c’est par [ici](join) :)
