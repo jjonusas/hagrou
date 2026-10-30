@@ -1,10 +1,7 @@
 ---
 title: "Simon"
-summary: "Dad of three, games enthusiast, artist, queer and climber. I tend to be either
-on a rock, in my kitchen or, let’s be honest, behind my computer tinkering with
-my latest project. Whether it’s a new city in Anno, a novel or my next
-role-playing session… If we go by what people say about me, I’m quirky, kind
-and very uncompromising when it comes to the rise of fascism!"
+summary: |
+  Dad of three, games enthusiast, artist, queer and climber. I tend to be either on a rock, in my kitchen or, let’s be honest, behind my computer tinkering with my latest project. Whether it’s a new city in Anno, a novel or my next role-playing session… If we go by what people say about me, I’m quirky, kind and very uncompromising when it comes to the rise of fascism!
 ---
 
 ### What should a candidate for the Hagrou adventure know about you?

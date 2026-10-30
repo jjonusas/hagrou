@@ -1,7 +1,8 @@
 ---
 title: "Florent"
-summary: "J'aime particulièrement ma famille, mes copains, les
-bières et le dessin... Dans cet ordre. "
+summary: |
+  J'aime particulièrement ma famille, mes copains, les bières et le dessin...
+  Dans cet ordre.
 ---
 
 ### Que devrait savoir de toi un·e candidat·e à l'aventure Hagrou?

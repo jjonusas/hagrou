@@ -1,10 +1,7 @@
 ---
 title: "Marika"
-summary: "Après deux ans à Bruxelles, où j'ai rejoint Hagrou, je
-suis depuis mi-2026 à Montpellier où je continue de participer à l'aventure à
-distance. J'aime les sorties culturelles, les jeux de société, voyager en train
-rendre visite à mes amis, je fais de la danse et mon objectif cette année est
-de maintenir en vie mes plantes !"
+summary: |
+  Après deux ans à Bruxelles, où j'ai rejoint Hagrou, je suis depuis mi-2026 à Montpellier où je continue de participer à l'aventure à distance. J'aime les sorties culturelles, les jeux de société, voyager en train rendre visite à mes amis, je fais de la danse et mon objectif cette année est de maintenir en vie mes plantes !
 ---
 
 ### Que devrait savoir de toi un·e candidat·e à l'aventure Hagrou?

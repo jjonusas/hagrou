@@ -1,7 +1,7 @@
 ---
 title: "Florent"
-summary: "I particularly love my family, my friends, beer and
-drawing… In that order."
+summary: |
+  I particularly love my family, my friends, beer and drawing… In that order.
 ---
 
 ### What should a prospective Hagrou participant know about you?

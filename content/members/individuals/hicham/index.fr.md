@@ -1,10 +1,7 @@
 ---
 title: "Hicham"
-summary: "Ma triade : enthousiasme, nuance et blagues. Et jeux de
-société. Et vélo. Et plein d'autres trucs en fait. Oups... Je peux
-encore rajouter des choses ? Il n'y a pas de limite de caractères on
-est d'accord ? Parce que je viens de penser à un truc que j'avais
-pas encore mentionné..."
+summary: |
+  Ma triade : enthousiasme, nuance et blagues. Et jeux de société. Et vélo. Et plein d'autres trucs en fait. Oups... Je peux encore rajouter des choses ? Il n'y a pas de limite de caractères on est d'accord ? Parce que je viens de penser à un truc que j'avais pas encore mentionné...
 ---
 
 ### Que devrait savoir de toi un·e candidat·e à l'aventure Hagrou?

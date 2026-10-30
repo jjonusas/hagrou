@@ -1,12 +1,7 @@
 ---
 title: "Isabelle"
-summary: "Dimanche 26/04/2026, 14h03 : Dans 27 minutes, je dois
-partir pour la réunion Hagrou. Confortablement installée dans mon
-canapé jaune, j'attends qu'un fun fact captivant à mon propos
-remonte à la surface de ma conscience. Une douce brise me caresse la
-joue. Mes paupières sont lourdes et le doux ronronnement de moteurs
-en contrebas me berce. Mes yeux se ferment... Allez, juste quelques
-minutes..."
+summary: |
+  Dimanche 26/04/2026, 14h03 : Dans 27 minutes, je dois partir pour la réunion Hagrou. Confortablement installée dans mon canapé jaune, j'attends qu'un fun fact captivant à mon propos remonte à la surface de ma conscience. Une douce brise me caresse la joue. Mes paupières sont lourdes et le doux ronronnement de moteurs en contrebas me berce. Mes yeux se ferment... Allez, juste quelques minutes...
 ---
 
 ### Que devrait savoir de toi un·e candidat·e à l'aventure Hagrou?

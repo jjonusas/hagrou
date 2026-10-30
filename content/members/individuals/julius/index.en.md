@@ -1,6 +1,7 @@
 ---
 title: "Julius"
-summary: "I grow mold."
+summary: |
+  I grow mold.
 ---
 
 ### What should a prospective Hagrou participant know about you?

@@ -1,10 +1,7 @@
 ---
 title: "Charlotte"
-summary: "I’m Tiago’s foster mum, in love with Florent, and a French teacher; I love
-spending time with my family and friends. I also enjoy reading, going to
-concerts, watching films and plays, going for walks, cycling, soaking up the
-sun, strolling around Brussels, and discovering a new beer or a new park (this
-list isn’t exhaustive)."
+summary: |
+  I’m Tiago’s foster mum, in love with Florent, and a French teacher; I love spending time with my family and friends. I also enjoy reading, going to concerts, watching films and plays, going for walks, cycling, soaking up the sun, strolling around Brussels, and discovering a new beer or a new park (this list isn’t exhaustive).
 ---
 
 ### What should a candidate for the Hagrou adventure know about you?
