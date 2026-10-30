@@ -38,3 +38,26 @@
   --color-secondary-900: 0, 0, 0;
   --color-secondary-950: 0, 0, 0;
 }
+
+/* Fix language dropdown visibility issue */
+/* The Congo theme's language switcher uses group-hover:visible to show the dropdown,
+   but it disappears when moving the mouse from the button to the dropdown menu.
+   This CSS ensures the dropdown stays visible when either:
+   1. The parent button group is hovered
+   2. The dropdown itself is hovered
+   This creates a continuous hover area allowing users to select a language.
+   
+   Adding padding-bottom to the parent creates overlap between button and dropdown hover areas.
+*/
+/* Extend the parent's hover area to cover the dropdown */
+.group.relative {
+  padding-bottom: 0.5rem !important;
+}
+
+/* Target the dropdown more specifically by including multiple classes */
+.group.relative:hover > div.invisible.bottom-7.absolute,
+.group.relative > div.invisible.bottom-7.absolute:hover {
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto;
+}
