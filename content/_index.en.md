@@ -6,7 +6,7 @@ title: A cohousing project in Brussels
 Let's shake up the way we live! A creative adventure, where adelphity, poetry, and robustness shine through.
 {{< /lead >}}
 
-![This is us](front.png)
+![This is us](front.jpg)
 
 Hagrou is a collective of citizens united by a shared dream: to rethink housing
 in Brussels to make it more inclusive, more humane, and more connected to its

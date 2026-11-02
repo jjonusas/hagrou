@@ -5,7 +5,7 @@ Tower: tower.png
 
 {{< lead >}} Chambardons notre façon d’habiter ! Une aventure créatrice, où rayonnent adelphité, poésie et robustesse. {{< /lead >}}
 
-![This is us](front.png)
+![This is us](front.jpg)
 
 Hagrou, c’est un collectif de citoyen·nes réuni·es autour d’un même rêve :
 repenser l’habitat à Bruxelles pour le rendre plus solidaire, plus humain, et
