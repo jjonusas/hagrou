@@ -18,5 +18,5 @@ What is the process for joining Hagrou?
   project with you. To ensure you are well supported, a pair of buddies will
   make sure that your integration into the collective goes smoothly: you can
   ask them any questions you may have!
-- Once you have attended five meetings, if you confirm your wish to join the
+- Once you have attended three meetings, if you confirm your wish to join the
   project, the collective will decide by consensus on your integration.

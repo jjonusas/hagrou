@@ -19,6 +19,6 @@ Comment se passe le processus pour rejoindre Hagrou&nbsp;?
   veillera à ce que ton intégration au collectif se fasse dans les meilleures
   conditions : tu pourras leur poser toutes les questions que tu
   souhaites&nbsp;!
-- Lorsque tu auras pu assister à cinq réunions, si tu confirmes ta volonté à
+- Lorsque tu auras pu assister à trois réunions, si tu confirmes ta volonté à
   rejoindre le projet, le collectif pourra décider par consensus de ton
   intégration.
